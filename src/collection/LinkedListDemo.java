@@ -4,6 +4,8 @@ import java.util.LinkedList;
 
 public class LinkedListDemo {
 
+    //It does not require contigious memory but arraylist does
+
     public static void main(String[] args) {
 
         LinkedList l = new LinkedList();
