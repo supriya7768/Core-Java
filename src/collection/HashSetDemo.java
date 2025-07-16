@@ -1,5 +1,6 @@
 package collection;
 
+import java.util.Collections;
 import java.util.HashSet;
 
 public class HashSetDemo {
@@ -15,6 +16,7 @@ public class HashSetDemo {
         h.add(null);                    // null can be inserted only once because no duplicate allowed
         System.out.println(h.add("Java"));
         System.out.println(h);         // [null, Java, 1, Ruby, Python]
+
 
 
     }
