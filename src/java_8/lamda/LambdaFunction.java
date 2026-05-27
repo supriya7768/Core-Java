@@ -1,9 +1,13 @@
-package java_8;
+package java_8.lamda;
 
 import java.util.ArrayList;
-import java.util.function.Consumer;
 
 public class LambdaFunction {
+
+    /*
+    Structure of Lamda == (parameters) -> {body}
+    Lamda works only with functional interface.
+    */
 
     public static void main(String[] args) {
 
